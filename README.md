@@ -172,4 +172,4 @@ Feel free to explore each project, and don't hesitate to contact me if you have 
 **Contact Information:**
 
 - **Email:** jmartineztortola@gmail.com
-- **LinkedIn:** [My LinkedIn Profile]https://www.linkedin.com/in/jorge-martinez-tortola-849411128/)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/jorge-martinez-tortola-849411128/)
