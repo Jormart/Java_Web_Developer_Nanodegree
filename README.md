@@ -164,12 +164,3 @@ Each project contains its own `README.md` with detailed instructions on how to s
 ## License
 
 This repository is licensed under the [MIT License](LICENSE.md).
-
----
-
-Feel free to explore each project, and don't hesitate to contact me if you have any questions or feedback.
-
-**Contact Information:**
-
-- **Email:** jmartineztortola@gmail.com
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/jorge-martinez-tortola-849411128/)
