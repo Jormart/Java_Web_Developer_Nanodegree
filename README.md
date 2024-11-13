@@ -163,7 +163,7 @@ Each project contains its own `README.md` with detailed instructions on how to s
 
 ## License
 
-This repository is licensed under the [MIT License](./LICENSE).
+This repository is licensed under the [MIT License](LICENSE.md).
 
 ---
 
